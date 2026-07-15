@@ -1,8 +1,8 @@
 {
   "appVersion": "0.0.0",
   "buildClassification": "production-engineering",
-  "buildCreatedAt": "2026-07-14T01:00:34.577Z",
-  "buildId": "scanner-0.0.0-phase17d2d-build-b-da9100ffb3d869b4-github-pages-staging",
+  "buildCreatedAt": "2026-07-15T01:38:14.885Z",
+  "buildId": "scanner-0.0.0-phase17d2f-build-c-dbd7f6f1fee3c10e-github-pages-staging",
   "pwaEnabled": true,
-  "serviceWorkerCacheRevision": "da9100ffb3d869b4"
+  "serviceWorkerCacheRevision": "dbd7f6f1fee3c10e"
 }
